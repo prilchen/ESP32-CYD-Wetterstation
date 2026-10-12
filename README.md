@@ -2,8 +2,6 @@
 
 Wetterstation für das ESP32-3248S035R (Cheap Yellow Display / CYD), entwickelt mit EEZ Studio und LVGL 9.5.
 
-> Status: vorbereitet, noch nicht veröffentlicht.
-
 ## Funktionen
 
 - Temperatur-Tacho mit LVGL Scale
@@ -57,7 +55,7 @@ Die Open-Meteo-URL im Sketch enthält Koordinaten für Frechen/Köln. Für einen
 
 ## Bekannte Voraussetzung
 
-Das Paket enthält keinen erfundenen EEZ-Studio-Export. Ohne die echten Dateien `ui.h`, `ui.c` und Assets ist der Sketch noch nicht vollständig kompilierbar.
+Das Paket enthält Prilchen Design EEZ-Studio-Export. Diese Werte wie im Tutorial gezeigt wird bei selbst erstellten Design von EEZ Studio neu erzeugt. Dann darauf achten das UI-Objekte in der INO-Datei entsprechend umgebaut werden muss.
 
 ## Artikel
 
@@ -65,6 +63,11 @@ Projektbegleitung: [ESP32 + CYD Teil 3 auf Prilchen Labs](https://prilchen.de/es
 
 ## Lizenz
 
-Noch nicht festgelegt. Siehe `LICENSE-NOT-SET.txt`.
+Code:
+GPL v3
 
+Dokumentation:
+CC BY-NC-SA 4.0
+
+Texte, Bilder und Screenshots:
 © Prilchen LABS 2026
