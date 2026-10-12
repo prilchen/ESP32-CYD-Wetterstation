@@ -1,0 +1,9 @@
+secrets.h
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.bin
+*.elf
+*.map
+build/
