@@ -2,7 +2,7 @@
 
 Wetterstation für das ESP32-3248S035R (Cheap Yellow Display / CYD), entwickelt mit EEZ Studio und LVGL 9.5.
 
-bilder/09-10-_2026_15-01-37.png
+bilder/teil3.jpg
 
 [Video ansehen](https://youtu.be/0wos7MNm5tg)
 
