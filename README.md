@@ -2,6 +2,8 @@
 
 Wetterstation für das ESP32-3248S035R (Cheap Yellow Display / CYD), entwickelt mit EEZ Studio und LVGL 9.5.
 
+[Video ansehen](https://youtu.be/0wos7MNm5tg)
+
 ## Funktionen
 
 - Temperatur-Tacho mit LVGL Scale
